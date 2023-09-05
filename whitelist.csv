@@ -44,7 +44,6 @@ kahoot.com
 management.azure.com
 login.windows.net
 login.microsoftonline.com
-*.guestconfiguration.azure.com
-*.his.arc.azure.com
-umsa*.blob.core.windows.net
-*rdfe*.blob.core.windows.net
+guestconfiguration.azure.com
+his.arc.azure.com
+blob.core.windows.net
